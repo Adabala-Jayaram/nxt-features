@@ -1,0 +1,31 @@
+.cart-summary-card {
+  min-width: 180px;
+}
+.total-cart-item-value {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #616e7c;
+}
+.total-amount {
+  font-weight: bold;
+  color: black;
+}
+.cart-count {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #616e7c;
+}
+.cart-summary-container {
+  margin-left: auto;
+}
+.check-out-btn-bg {
+  background-color: blue;
+  text-align: center;
+}
+.check-out-btn {
+  border-width: 0px;
+  background-color: transparent;
+  color: white;
+  font-size: 13px;
+  padding: 5px;
+}
